@@ -8,9 +8,6 @@
   ![GitHub User's stars](https://img.shields.io/github/stars/python-coding-404?style=flat-square&affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
   
   
-  [![Gist.GitHub:python-coding-404](https://img.shields.io/badge/Gist-python-coding-404-red?style=flat-square&logo=GitHub)](https://gist.github.com/python-coding-404)
-  [![gitee](https://img.shields.io/badge/gitee-python-coding-404-red?style=flat-square&logo=gitee)](https://gitee.com/python-coding-404)
-  [
 </div>
 
 
